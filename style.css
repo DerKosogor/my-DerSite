@@ -82,6 +82,11 @@ body {
   margin: 0 0 32px;
   text-align: center;
 }
+.me{
+  border: 12px solid #ffffff;
+  border-radius: 4%;
+
+}
 
 .intro h3,
 .portfolio h3 {
