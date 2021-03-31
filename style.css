@@ -83,11 +83,16 @@ body {
   text-align: center;
 }
 .me{
-  border: 12px solid #ffffff;
-  border-radius: 4%;
-
+  border: 7px solid #ffffff;
+  border-radius: 2%;
+  border-bottom-right-radius: 15%;
+  border-top-left-radius: 15%;
 }
 
+.cat{
+  border: 7px solid #ffffff;
+  border-radius: 50%;
+}
 .intro h3,
 .portfolio h3 {
   margin: 0 0 12px;
